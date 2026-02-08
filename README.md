@@ -1,5 +1,7 @@
-### SynGEO
-SynGeo is a synthetic geometry reasoning engine. It uses classical Euclidean and projective geometry objects, tracks geometric invariants, and produces short human-readable proof sketches for standard geometric facts.
+### Discrete Geometry Framework
+(A synthetic geometry reasoning engine)
+
+It uses classical Euclidean and projective geometry objects, tracks geometric invariants, and produces short human-readable proof sketches for standard geometric facts.
 The goal is not numeric computation, but structure, invariants, and reasoning.
 
 
